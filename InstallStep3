@@ -1,0 +1,3 @@
+cp ~/ratatoskr/simulator/sim .
+cp config/network_heterogeneous.xml network.xml
+cp config/config_heterogeneous.xml config/config.xml
