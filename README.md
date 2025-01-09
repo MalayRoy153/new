@@ -53,6 +53,16 @@ Average network latency: 79300048.00 ns.
 Random seed 2983138700
 Execution time: 0h 0 min and 10 seconds
 
+RandomXYZ
+
+Average Input Bandwidth  0 Mb/sec
+Average Output Bandwidth 0 Mb/sec
+Lost Packets: 792
+Average flit latency: 13.12 ns.
+Average packet latency: 45.54 ns.
+Average network latency: 79200048.00 ns.
+Random seed 715084074
+Execution time: 0h 0 min and 9 seconds
 
 
 
